@@ -1,0 +1,23 @@
+**Biografie Martin de Tours**
+
+- Martinus werd geboren in Sabaria, Hongarije, in het jaar 316, het huidige Szombathely (Hongaars) Steinamanger(Duits) in West-Hongarije aan de grenzen van het Romeinse Rijk. 
+
+- Zijn vader werd een magistraat in dienst van het Romeinse leger. Het gezin verhuisde naar Pavia in Italië waar hij zijn jeugd zou doorbrengen. 
+   `De legenden vertellen dat hij zich als jongen van 12 jaar liet opnemen in de kerk als catechumeen (doopleerling), tegen de wil van zijn ouders in (de legende maakt hier hoogstwaarschijnlijk een onhistorische verbinding met het evangelieverhaal over de twaalfjarige Jezus).`
+
+- Op 15-jarige leeftijd nam hij dienst in het Romeinse leger onder de keizers Constantinus en Julianus en werd geplaatst bij de ruiterij in Gallië (Frankrijk).
+  `In deze periode speelt het beroemde verhaal dat hij bij de stadspoort van Amiens een naakte bedelaar ontmoette die hem om Christus' wil een aalmoes vroeg. Omdat hij niets dan zijn wapen had, gaf hij hem een stuk van zijn soldatenmantel door die met zijn zwaard in tweeën te snijden. In die tijd behoorde een helft van de kleding aan de keizer en de andere helft was persoonlijk bezit. In een droom verscheen later Christus hem met de helft van zijn mantel om zich heen geslagen: "Wat je voor de geringste van mijn broeders hebt gedaan, dat heb je aan Mij gedaan". Dit gaf voor hem de doorslag om Christen te worden en zich te laten dopen. Hij werd gedoopt door de bisschop Hilarius van Poitiers. Hij geraakte tijdens die legerperiode steeds meer in een innerlijk conflict tussen zijn als soldaat dienstbaar zijn aan de Romeinse keizer of aan zijn christelijke roeping. Hij neemt nabij Worms ontslag uit het leger en wordt door keizer Julianus lafheid verweten.`
+
+- Op 18-jarige leeftijd werd hij gedoopt (andere bronnen vermelden 22 jaar) en later ook in de geestelijke stand opgenomen. Zijn eerste arbeid als priester verrichtte hij in de streek waar zijn ouders leefden in Lombardije, waar hij het christelijke geloof verkondigde. 
+  `Er ontstonden problemen tussen hem en de Arianen, een christelijke stroming, die de menselijkheid van Jezus van Nazareth beklemtoonden en de goddelijke afkomst van Christus niet accepteerden en die daar veel aanhang hadden.` 
+
+- Maarten hield vast aan zijn geloof en werd slecht behandeld op last van de Ariaanse bisschop van Milaan. Hij hield zich daarna schuil als kluizenaar op het eiland Gallinaria (nu Isola d'Albenga) voor de Italiaanse Rivièra. Ook bisschop Hilarius van Poitiers was op aandrang van de arianen verbannen uit Frankrijk.  
+
+- In 361 kon hij terugkeren naar Frankrijk en voegde zich bij de Hilarius van Poitiers. Ook daar werd hij een kluizenaar, wonend in een afgelegen gebied, en hij wijdde zijn hele leven aan God. Hij kreeg veel volgelingen, zodat hier in 361 het eerste klooster op Franse bodem ontstond. 
+- Toen St. Lidorius de bisschop van Tours, een stad in West-Frankrijk, in 371 of 372 overleed, vroegen de christenen en priester van die stad aan Maarten of hij bisschop wilde worden. Deze wilde eigenlijk gewoon kluizenaar blijven. De legenden vertellen dat Martinus via een list naar de stad werd gelokt en toen hij eenmaal in Tours was aangekomen, kon hij niet meer afzien van het bisschopsambt.
+
+- In 371 werd Martinus door het volk tot bisschop van Tours gekozen. Hij bleef zijn monnikenleven voortzetten, stichtte omstreeks 375 in Tours een klooster en werkte samen met zijn kloosterlingen aan de verkondiging van het christendom in Frankrijk.
+   `Als bisschop bleef hij zijn monnikenleven voortzetten en trad op als een grote geloofsverkondiger. Hij stichtte ook veel kloosters, waarvan dat van Marmoutier het belangrijkste was. Hij vernietigde de heidense heiligdommen en preekte onophoudelijk tegen de ketterijen van die dagen. Hij werd al tijdens zijn leven als heilig beschouwd en veel wonderen werden aan hem toegeschreven.`
+
+- Tijdens een missiereis sterft hij in Candes, op acht november 397, 81 jaar oud. Op elf november wordt hij in Tours begraven, zijn latere feestdag.
+   `Ook al was hij niet de marteldood gestorven, zoals veel van zijn heilige voorgangers, werd hij toch onmiddellijk door het hele volk als een grote heilige vereerd. Rond zijn graf gebeurden vele wonderen en een eeuw later roept koning Clovis hem uit tot patroon van het Frankische volk. In Frankrijk zijn duizenden kerken aan hem gewijd, waaronder, de St. Martinus basiliek in Tours.`

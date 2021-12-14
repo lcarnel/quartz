@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "projects": {
+    "Toerinfo/Duitsland": {
+      "path": "Toerinfo/Duitsland",
+      "indexFile": "Duitsland-Index",
+      "draftsPath": "Drafts/"
+    }
+  },
+  "selectedProject": "Toerinfo/Duitsland",
+  "selectedDraft": "Bonn"
+}

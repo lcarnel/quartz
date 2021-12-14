@@ -1,0 +1,3 @@
+Lodewijk XI kan beschouwd worden als de grondlegger van de Franse eenheidsstaat en de voorloper van de absolute monarchie, die in Frankrijk een einde maakte aan het feodale stelsel.   
+Hij liet zich omringen, niet door zijn vazallen, maar door allerlei spionnen, politiebeambten en andere lieden van duister allooi. Door zijn intriges, meer dan door zijn oorlogen, wist hij het Franse   territorium aanzienlijk uit te breiden. Tenger en ziekelijk van uiterlijk, leefde hij gierig waar het zijn   persoon betrof, maar om een tegenstander om te kopen was geen prijs hem te hoog. 
+Lodewijk XI   bevorderde de handel en de nijverheid in zijn koninkrijk.

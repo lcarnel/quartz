@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "aed588a98e07ae85",
+    "type": "split",
+    "children": [
+      {
+        "id": "be838f5dc5813534",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Cheverny.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d337312adecc0b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4948781a3d27d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd329d5362c25c38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8276c5a6293358b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e0fbe637f9afb59",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe6967afe65e24da",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a3f848e21427dffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3571e5708e7950bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feebd818900b64bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Toerinfo/Frankrijk/Loire/Cheverny.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46317ead0fad4b82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Toerinfo/Frankrijk/Loire/Cheverny.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f98288d7e216cbe3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad327e3246c6bc79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Toerinfo/Frankrijk/Loire/Cheverny.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "be838f5dc5813534",
+  "lastOpenFiles": [
+    "Toerinfo/Frankrijk/Loire/Cheverny.md",
+    "Toerinfo/Frankrijk/Loire/Chenonceau-Château des Dames.md",
+    "Toerinfo/Frankrijk/Loire/Chenonceau - uitgebreide geschiedenis.md",
+    "Toerinfo/Frankrijk/Loire/Tours.md",
+    "Toerinfo/Frankrijk/Loire/Loches.md",
+    "Toerinfo/Frankrijk/Loire/Loches- alg.md",
+    "Toerinfo/Frankrijk/Loire/Blois - Geschiedenis.md",
+    "csv_test.csv",
+    "Toerinfo/Frankrijk/Loire/Blois Kasteel.md",
+    "Geschiedenis/Frankrijk/François I.md"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "cbee73194d42f47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df7204b486eaa9e",
+        "type": "leaf",
+        "state": {
+          "type": "csv",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/loire_opvolging.csv"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c5a3f27257a1a9d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d42dea266502f24",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "635d7e3eb402f0cc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "54fc9a7bc12bba73",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "aa7c439d7e66e0f1",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {}
+        }
+      },
+      {
+        "id": "e68b321ea010652b",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "8d12dc97bfecf475",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "096bc0f97cb4dca1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/loire_opvolging.csv",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9da383e883edc175",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/loire_opvolging.csv",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b70a831e441f1535",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/loire_opvolging.csv"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4df7204b486eaa9e",
+  "lastOpenFiles": [
+    "Toerinfo/Frankrijk/Loire/loire_opvolging.csv",
+    "Toerinfo/Frankrijk/Loire/_Index_of_Loire.md",
+    "Toerinfo/Frankrijk/Loire/loirekoningen.csv",
+    "Toerinfo/Frankrijk/Loire/test_word_paste.md",
+    "Geschiedenis/Frankrijk/media/loire_1477.png",
+    "media/BloisLodewijkXII.jpg.md",
+    "Toerinfo/Frankrijk/Loire/Cheverny.md",
+    "Toerinfo/Frankrijk/Loire/Tours.md",
+    "Toerinfo/Frankrijk/Loire/Loches.md",
+    "Toerinfo/Frankrijk/Loire/Loches- alg.md"
+  ]
+}

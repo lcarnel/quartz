@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "aed588a98e07ae85",
+    "type": "split",
+    "children": [
+      {
+        "id": "be838f5dc5813534",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Amboise.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac3f21d70d106a21",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e68711af38b15ebd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8c2f506922965602",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ca807b4e7968310d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ba2b1a547fe5619f",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {}
+        }
+      },
+      {
+        "id": "a5a7e71ae77780a6",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "c933edfa568a2a57",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a80648c08a32b4c5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Amboise.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "238363b71dfd787a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Amboise.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e96a1d5d39a6ee07",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Amboise.md"
+          }
+        }
+      },
+      {
+        "id": "f49094ab72014b8b",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "be838f5dc5813534",
+  "lastOpenFiles": [
+    "Toerinfo/Frankrijk/Loire/Amboise.md",
+    "Toerinfo/Frankrijk/Loire/Cheverny.md",
+    "Toerinfo/Frankrijk/Loire/Chenonceau-Château des Dames.md",
+    "Toerinfo/Frankrijk/Loire/Chenonceau - uitgebreide geschiedenis.md",
+    "Toerinfo/Frankrijk/Loire/Tours.md",
+    "Toerinfo/Frankrijk/Loire/Loches.md",
+    "Toerinfo/Frankrijk/Loire/Loches- alg.md",
+    "Toerinfo/Frankrijk/Loire/Blois - Geschiedenis.md",
+    "csv_test.csv",
+    "Toerinfo/Frankrijk/Loire/Blois Kasteel.md"
+  ]
+}

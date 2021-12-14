@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "aed588a98e07ae85",
+    "type": "split",
+    "children": [
+      {
+        "id": "225e8dec20a2529e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Titel test deze tekst.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eeccd702e1cb32bb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aa26d2fefc8a33ed",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f413f613b4b468f0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "38daf3d84b175f45",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "beac096c4030ce27",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {}
+        }
+      },
+      {
+        "id": "3d136e6a178c5d71",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "0d4b910096ea0650",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0242aa8e0e46e0e0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Titel test deze tekst.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "31dd3fc95a146032",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Titel test deze tekst.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0383732fd5422985",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Titel test deze tekst.md"
+          }
+        }
+      },
+      {
+        "id": "6e0e418e32c64729",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "225e8dec20a2529e",
+  "lastOpenFiles": [
+    "Titel test deze tekst.md",
+    "Geschiedenis/Frankrijk/François I.md",
+    "present_md.md",
+    "testtekst.md",
+    "Tabeltest.md",
+    "Geschiedenis/Frankrijk/Catharina de Medici.md",
+    "Toerinfo/Frankrijk/Loire/tours_wandelingen.pdf",
+    "Toerinfo/Frankrijk/Loire/Tours.md",
+    "Toerinfo/Frankrijk/Loire/Cheverny.md",
+    "Toerinfo/Frankrijk/Loire/Cheverny Rondleiding.md"
+  ]
+}

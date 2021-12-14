@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "3e9cb136be03ef13",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d925921bc1a749",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "263a7658bf1cd177",
+    "type": "split",
+    "children": [
+      {
+        "id": "85723c8b2cb9c9a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4a8c36e5ccd059",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62f261242cfdf648",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91ad5b9cd57cf1f1",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "461cbc1f90cd466d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5e4415d67b2286d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9034e6bf41a14c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a38cfabc17b1e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d579358bcb0484a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8ac6255e7166611",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a9c90b8ed320365",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "49d925921bc1a749",
+  "lastOpenFiles": [
+    "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+    "Toerinfo/Frankrijk/Loire/media_loire/kasteelBloisFacade.jpg",
+    "Toerinfo/Frankrijk/Loire/media_loire/kasteelBloisLodewijkXII2.jpg",
+    "Toerinfo/Frankrijk/Loire/media_loire/kasteelBloisSalle.jpg",
+    "Toerinfo/Frankrijk/Loire/media_loire/kasteelblois2.jpg",
+    "Toerinfo/Frankrijk/Loire/media_loire/FransI-vleugel_LegendeHenriIII.jpg",
+    "Toerinfo/Frankrijk/Loire/Blois - Geschiedenis.md",
+    "Toerinfo/Frankrijk/Loire/media_loire/KasteelBloisLodewijkXII.jpg",
+    "Toerinfo/Frankrijk/Loire/media_loire/kasteelBloisvleugelGastonOrleans.jpg",
+    "Toerinfo/Frankrijk/Loire/media_loire/blois.jpg"
+  ]
+}

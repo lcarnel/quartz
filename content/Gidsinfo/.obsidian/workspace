@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "c1a9b61a69d9f103",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb61d319950a9bf6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Geschiedenis/Frankrijk/Valois Bourbon.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afe4119fd620f7fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec93af956ebdade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "874aa0ef421ef424",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f97ee6e848d7574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "660b8e9c60188f24",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "19e23d2614448db9",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30b2ab826905d82e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2f85bcd8a82f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8ef7977fdabaa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geschiedenis/Frankrijk/Valois Bourbon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50e68af668337c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geschiedenis/Frankrijk/Valois Bourbon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc4965359e9d6bac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87fd0c63d743d779",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geschiedenis/Frankrijk/Valois Bourbon.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3a06b26516690be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b8dadd3aa940c7b",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb61d319950a9bf6",
+  "lastOpenFiles": [
+    "Geschiedenis/Frankrijk/Valois Bourbon.md",
+    "Geschiedenis/Frankrijk/Map_Chronologie.md",
+    "Geschiedenis/Frankrijk/Louis XI.md",
+    "Geschiedenis/Frankrijk/Catharina de Medici.md",
+    "Geschiedenis/Frankrijk/Untitled.md",
+    "Geschiedenis/Frankrijk/Henri IV.md",
+    "Toerinfo/Frankrijk/Loire/Blois Kasteel.md",
+    "Toerinfo/Frankrijk/Loire/Chambord.md",
+    "Geschiedenis/Frankrijk/Henri II.md",
+    "Toerinfo/Frankrijk/Loire/Chaumont.md"
+  ]
+}

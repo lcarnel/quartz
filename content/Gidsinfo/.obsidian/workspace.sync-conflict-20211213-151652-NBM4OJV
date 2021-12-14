@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "aed588a98e07ae85",
+    "type": "split",
+    "children": [
+      {
+        "id": "225e8dec20a2529e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Chambord.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f13fe5b7a99e2f89",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0b031d9a0143bd2a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "45234bc35508dc9b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5a28c6dc5676e9c8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "57e7578e5b2f36a4",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {}
+        }
+      },
+      {
+        "id": "8897038abed09488",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "594dbdedbf455619",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "463cc5dc76e68f9a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Chambord.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3ff6a093fb5e815e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Chambord.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6f8e265c6c45b285",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Chambord.md"
+          }
+        }
+      },
+      {
+        "id": "f3e36240c3833868",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "225e8dec20a2529e",
+  "lastOpenFiles": [
+    "Toerinfo/Frankrijk/Loire/Chambord.md",
+    "Toerinfo/Frankrijk/Loire/Chenonceau-Rondleiding.md",
+    "Toerinfo/Frankrijk/Loire/Azay massamoord.md",
+    "Toerinfo/Frankrijk/Loire/Azay le Rideau.md",
+    "Geschiedenis/Frankrijk/Henri II.md",
+    "Geschiedenis/Frankrijk/Catharina de Medici.md",
+    "Geschiedenis/Frankrijk/Eleonora.md",
+    "Toerinfo/Frankrijk/Loire/loirekoningen.csv",
+    "Geschiedenis/Frankrijk/François I.md",
+    "Toerinfo/Frankrijk/Loire/_Index_of_Loire.md"
+  ]
+}

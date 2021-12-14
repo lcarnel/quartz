@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "3e9cb136be03ef13",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b830899579b606f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7577c4e3fbf2aa4f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f608b6a0d450265a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "cd9da37ad8a032e8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f8d05627887c585f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0d9130fa4441dc96",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {}
+        }
+      },
+      {
+        "id": "38473ea38b0a082c",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "021114e46cf708d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de011fc6e62e67dc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "459fa6846e590136",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5a323ea4b6755935",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Toerinfo/Frankrijk/Loire/Kasteel Blois.md"
+          }
+        }
+      },
+      {
+        "id": "6e933a77408d0592",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "active": "8b830899579b606f",
+  "lastOpenFiles": [
+    "Toerinfo/Frankrijk/Loire/Kasteel Blois.md",
+    "Toerinfo/Frankrijk/Loire/Chenonceau-Rondleiding.md",
+    "Toerinfo/Frankrijk/Loire/Blois - Geschiedenis.md",
+    "testtekst.md",
+    "Titel test deze tekst.md",
+    "images/Screenshot_20211111194243_2.jpeg.md",
+    "schwerin-schloss.jpg",
+    "schwerin-schloss_1.jpg.md",
+    "schwerin-schloss_1.png.md",
+    "present_md.md"
+  ]
+}
